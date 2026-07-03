@@ -1,0 +1,1 @@
+The RMLP notebook is copied from another notebook as to learn and fill my gaps in Deep Learning. The LGBM, XGB notebook is the notebook i wrote myself after researching its parameters and optimization techniques. Not much though But its a start.
